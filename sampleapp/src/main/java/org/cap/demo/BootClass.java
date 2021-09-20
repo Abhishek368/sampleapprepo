@@ -6,5 +6,8 @@ public class BootClass {
 		// TODO Auto-generated method stub
 			System.out.println("Hello from sts");
 	}
+	public static void show() {
+		System.out.println("SOLVE THE CONFLICT");
+	}
 
 }
