@@ -7,7 +7,11 @@ public class BootClass {
 			System.out.println("Hello from sts");
 	}
 	public static void show() {
-		System.out.println("SOLVE THE CONFLICT");
+		int arr[]= {1,2,3,4};
+		for(int i=0;i<4;i++) {
+		System.out.println(arr[i]);
+		
+		}
 	}
 
 }
